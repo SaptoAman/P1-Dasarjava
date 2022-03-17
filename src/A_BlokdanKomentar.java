@@ -6,7 +6,6 @@ public class A_BlokdanKomentar {
         /*
         contoh komentar lebih dari satu baris
          */
-
         /*
          *java Doc -->baris ini untuk mendokumentasikan kode program
          */
